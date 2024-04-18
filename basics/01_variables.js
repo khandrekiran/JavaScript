@@ -1,4 +1,4 @@
-var accountId = 12312312;     /* const means now value (12312312) for this 
+let accountId = 12312312;     /* If const means now value (12312312) for this 
                                 memory id (accountId) cannot be changed */
 let emailId = `kiran@yahoo.com`;
 var accountPassword = `123456`;
